@@ -1,0 +1,10 @@
+# What Git ignores when committing to the repository
+
+.vscode/
+
+# Packaged extension file
+*.vsix
+
+# OS generated files
+.DS_Store
+Thumbs.db

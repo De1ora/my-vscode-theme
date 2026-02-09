@@ -1,0 +1,5 @@
+# What vsce (the packaging tool) ignores when creating the .vsix file for publishing
+
+.vscode/
+.gitignore
+.git/

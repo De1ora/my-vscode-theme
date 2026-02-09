@@ -1,0 +1,39 @@
+{
+	"name": "my-theme-vsc",
+	"license": "MIT",
+	"displayName": "MY THEME NAME",
+	"publisher": "TO BE DECIDED WHEN VS CODE MARKETPLACE PUBLISHING",
+	"description": "My custom theme for Visual Studio Code!",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": true
+		},
+		"virtualWorkspaces": true
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "MY THEME NAME",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/De1ora/my-vscode-theme"
+	},
+	"icon": "icon.png",
+	"homepage": "https://github.com/De1ora/my-vscode-theme#readme"
+}
