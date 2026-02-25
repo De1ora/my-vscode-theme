@@ -71,7 +71,7 @@
     "debugIcon.pauseForeground": "#85D4FF",
     "debugIcon.stopForeground": "#f38ba8",
     "debugIcon.disconnectForeground": "#585b70",
-    "debugIcon.restartForeground": "#94e2d5",
+    "debugIcon.restartForeground": "#8CE6D5",
     "debugIcon.stepOverForeground": "#FF9CCF",
     "debugIcon.stepIntoForeground": "#E0E3EB",
     "debugIcon.stepOutForeground": "#E0E3EB",
@@ -227,7 +227,7 @@
     "scmGraph.foreground2": "#f38ba8",
     "scmGraph.foreground3": "#a6e3a1",
     "scmGraph.foreground4": "#FF9CCF",
-    "scmGraph.foreground5": "#94e2d5",
+    "scmGraph.foreground5": "#8CE6D5",
     "input.background": "#33343E",
     "input.border": "#00000000",
     "input.foreground": "#E0E3EB",
@@ -397,8 +397,8 @@
     "terminal.ansiGreen": "#a6e3a1",
     "terminal.ansiYellow": "#FFE797",
     "terminal.ansiBlue": "#85D4FF",
-    "terminal.ansiMagenta": "#f5c2e7",
-    "terminal.ansiCyan": "#94e2d5",
+    "terminal.ansiMagenta": "#F5BCE1",
+    "terminal.ansiCyan": "#8CE6D5",
     "terminal.ansiWhite": "#a6adc8",
     "terminal.ansiBrightBlack": "#585b70",
     "terminal.ansiBrightRed": "#f37799",
@@ -431,33 +431,33 @@
     "symbolIcon.arrayForeground": "#fab387",
     "symbolIcon.booleanForeground": "#FF9CCF",
     "symbolIcon.classForeground": "#FFE797",
-    "symbolIcon.colorForeground": "#f5c2e7",
+    "symbolIcon.colorForeground": "#F5BCE1",
     "symbolIcon.constantForeground": "#fab387",
     "symbolIcon.constructorForeground": "#b4befe",
     "symbolIcon.enumeratorForeground": "#FFE797",
     "symbolIcon.enumeratorMemberForeground": "#FFE797",
-    "symbolIcon.eventForeground": "#f5c2e7",
+    "symbolIcon.eventForeground": "#F5BCE1",
     "symbolIcon.fieldForeground": "#E0E3EB",
     "symbolIcon.fileForeground": "#FF9CCF",
     "symbolIcon.folderForeground": "#FF9CCF",
     "symbolIcon.functionForeground": "#85D4FF",
     "symbolIcon.interfaceForeground": "#FFE797",
-    "symbolIcon.keyForeground": "#94e2d5",
+    "symbolIcon.keyForeground": "#8CE6D5",
     "symbolIcon.keywordForeground": "#FF9CCF",
     "symbolIcon.methodForeground": "#85D4FF",
     "symbolIcon.moduleForeground": "#E0E3EB",
     "symbolIcon.namespaceForeground": "#FFE797",
-    "symbolIcon.nullForeground": "#eba0ac",
+    "symbolIcon.nullForeground": "#C4ADE6",
     "symbolIcon.numberForeground": "#fab387",
     "symbolIcon.objectForeground": "#FFE797",
-    "symbolIcon.operatorForeground": "#94e2d5",
+    "symbolIcon.operatorForeground": "#8CE6D5",
     "symbolIcon.packageForeground": "#f2cdcd",
-    "symbolIcon.propertyForeground": "#eba0ac",
+    "symbolIcon.propertyForeground": "#C4ADE6",
     "symbolIcon.referenceForeground": "#FFE797",
     "symbolIcon.snippetForeground": "#f2cdcd",
     "symbolIcon.stringForeground": "#a6e3a1",
-    "symbolIcon.structForeground": "#94e2d5",
-    "symbolIcon.typeParameterForeground": "#eba0ac",
+    "symbolIcon.structForeground": "#8CE6D5",
+    "symbolIcon.typeParameterForeground": "#C4ADE6",
     "symbolIcon.unitForeground": "#E0E3EB",
     "symbolIcon.variableForeground": "#E0E3EB",
     "charts.foreground": "#E0E3EB",
@@ -522,13 +522,13 @@
     "gitlens.decorations.branchDivergedForegroundColor": "#FFE797",
     "gitlens.decorations.branchUnpublishedForegroundColor": "#a6e3a1",
     "gitlens.decorations.branchMissingUpstreamForegroundColor": "#fab387",
-    "gitlens.decorations.statusMergingOrRebasingConflictForegroundColor": "#eba0ac",
+    "gitlens.decorations.statusMergingOrRebasingConflictForegroundColor": "#C4ADE6",
     "gitlens.decorations.statusMergingOrRebasingForegroundColor": "#FFE797",
     "gitlens.decorations.workspaceRepoMissingForegroundColor": "#a6adc8",
     "gitlens.decorations.workspaceCurrentForegroundColor": "#FF9CCF",
     "gitlens.decorations.workspaceRepoOpenForegroundColor": "#FF9CCF",
     "gitlens.decorations.worktreeHasUncommittedChangesForegroundColor": "#fab387",
-    "gitlens.decorations.worktreeMissingForegroundColor": "#eba0ac",
+    "gitlens.decorations.worktreeMissingForegroundColor": "#C4ADE6",
     "gitlens.graphLane1Color": "#FF9CCF",
     "gitlens.graphLane2Color": "#FFE797",
     "gitlens.graphLane3Color": "#85D4FF",
@@ -537,8 +537,8 @@
     "gitlens.graphLane6Color": "#b4befe",
     "gitlens.graphLane7Color": "#f5e0dc",
     "gitlens.graphLane8Color": "#f38ba8",
-    "gitlens.graphLane9Color": "#94e2d5",
-    "gitlens.graphLane10Color": "#f5c2e7",
+    "gitlens.graphLane9Color": "#8CE6D5",
+    "gitlens.graphLane10Color": "#F5BCE1",
     "gitlens.graphChangesColumnAddedColor": "#a6e3a1",
     "gitlens.graphChangesColumnDeletedColor": "#f38ba8",
     "gitlens.graphMinimapMarkerHeadColor": "#a6e3a1",
@@ -561,7 +561,7 @@
     "editorBracketHighlight.foreground4": "#a6e3a1",
     "editorBracketHighlight.foreground5": "#74c7ec",
     "editorBracketHighlight.foreground6": "#FF9CCF",
-    "editorBracketHighlight.unexpectedBracket.foreground": "#eba0ac",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#C4ADE6",
     "button.secondaryBorder": "#FF9CCF",
     "table.headerBackground": "#33343E",
     "table.headerForeground": "#E0E3EB",
@@ -570,7 +570,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#94e2d5"
+      "foreground": "#8CE6D5"
     },
     "selfKeyword": {
       "foreground": "#f38ba8"
@@ -582,7 +582,7 @@
       "foreground": "#fab387"
     },
     "variable.defaultLibrary": {
-      "foreground": "#eba0ac"
+      "foreground": "#C4ADE6"
     },
     "class:python": {
       "foreground": "#FFE797"
@@ -674,7 +674,7 @@
         "punctuation.definition.variable"
       ],
       "settings": {
-        "foreground": "#A6E3A1"
+        "foreground": "#FFF88F"
       }
     },
     {
@@ -692,7 +692,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#9399b2",
+        "foreground": "#A2A5B3",
         "fontStyle": "italic"
       }
     },
@@ -708,7 +708,7 @@
     {
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -760,7 +760,7 @@
         "punctuation.separator.key-value"
       ],
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -805,14 +805,14 @@
         "variable.other.enummember"
       ],
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
       "name": "Object properties",
       "scope": "meta.property.object",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -847,7 +847,7 @@
         "meta.function.parameters"
       ],
       "settings": {
-        "foreground": "#eba0ac",
+        "foreground": "#C4ADE6",
         "fontStyle": "italic"
       }
     },
@@ -968,7 +968,7 @@
         "storage.modifier.reference.cpp"
       ],
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -999,14 +999,14 @@
       "name": "Operators",
       "scope": "punctuation.separator.operator.css",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
       "name": "Pseudo classes",
       "scope": "source.css entity.other.attribute-name.pseudo-class",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -1040,7 +1040,7 @@
         "meta.definition.variable.scss"
       ],
       "settings": {
-        "foreground": "#eba0ac"
+        "foreground": "#C4ADE6"
       }
     },
     {
@@ -1120,7 +1120,7 @@
       "name": "TOML dates",
       "scope": "constant.other.time.datetime.offset.toml",
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -1130,14 +1130,14 @@
         "punctuation.definition.alias.yaml"
       ],
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
       "name": "YAML triple dashes",
       "scope": "entity.other.document.begin.yaml",
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -1209,7 +1209,7 @@
       "name": "Comment keywords",
       "scope": "comment meta.annotation.go",
       "settings": {
-        "foreground": "#eba0ac"
+        "foreground": "#C4ADE6"
       }
     },
     {
@@ -1244,7 +1244,7 @@
       "name": "GraphQL enum members",
       "scope": "constant.character.enum.graphql",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -1310,7 +1310,7 @@
         "support.class.component.vue"
       ],
       "settings": {
-        "foreground": "#f5c2e7",
+        "foreground": "#F5BCE1",
         "fontStyle": ""
       }
     },
@@ -1328,7 +1328,7 @@
       "name": "Java enums",
       "scope": "constant.other.enum.java",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -1349,7 +1349,7 @@
       "name": "Exported Variable",
       "scope": "meta.export variable.other.readwrite.js",
       "settings": {
-        "foreground": "#eba0ac"
+        "foreground": "#C4ADE6" 
       }
     },
     {
@@ -1431,7 +1431,7 @@
         "storage.type.function.arrow.ts"
       ],
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -1464,7 +1464,7 @@
       "name": "Julia macros",
       "scope": "support.function.macro.julia",
       "settings": {
-        "foreground": "#94e2d5",
+        "foreground": "#8CE6D5",
         "fontStyle": "italic"
       }
     },
@@ -1486,7 +1486,7 @@
       "name": "LaTeX preamble",
       "scope": "text.tex keyword.control.preamble",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -1507,7 +1507,7 @@
       "name": "Liquid Builtin Objects & User Defined Variables",
       "scope": "variable.language.liquid",
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -1701,14 +1701,14 @@
         "punctuation.definition.quote.begin"
       ],
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
       "name": "Markdown separators",
       "scope": "meta.separator.markdown",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -1719,7 +1719,7 @@
         "markup.list.bullet"
       ],
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -1759,7 +1759,7 @@
       "name": "Nix paths",
       "scope": "string.unquoted.path.nix",
       "settings": {
-        "foreground": "#f5c2e7",
+        "foreground": "#F5BCE1",
         "fontStyle": ""
       }
     },
@@ -1883,7 +1883,7 @@
       "name": "python placeholder reset to normal string",
       "scope": "constant.character.format.placeholder.other.python",
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -1919,7 +1919,7 @@
         "meta.item-access.python"
       ],
       "settings": {
-        "foreground": "#eba0ac",
+        "foreground": "#C4ADE6",
         "fontStyle": "italic"
       }
     },
@@ -1959,7 +1959,7 @@
         "string.regexp punctuation.definition.string.end"
       ],
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -1997,7 +1997,7 @@
       "name": "Regex character classes (\\d, \\w, \\s)",
       "scope": "constant.other.character-class.regexp",
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -2011,7 +2011,7 @@
       "name": "Regex quantifier",
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -2131,7 +2131,7 @@
       "name": "Rust enum member",
       "scope": "meta.enum.rust storage.type.source.rust",
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {
@@ -2161,7 +2161,7 @@
       "name": "Rust string formatting",
       "scope": "string.quoted.double.rust constant.other.placeholder.rust",
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -2222,7 +2222,7 @@
         "meta.macro.metavariable.rust keyword.operator.macro.dollar.rust"
       ],
       "settings": {
-        "foreground": "#f5c2e7"
+        "foreground": "#F5BCE1"
       }
     },
     {
@@ -2235,7 +2235,7 @@
         "meta.shebang.shell"
       ],
       "settings": {
-        "foreground": "#f5c2e7",
+        "foreground": "#F5BCE1",
         "fontStyle": "italic"
       }
     },
@@ -2243,7 +2243,7 @@
       "name": "Shell shebang command",
       "scope": "comment.line.shebang constant.language",
       "settings": {
-        "foreground": "#94e2d5",
+        "foreground": "#8CE6D5",
         "fontStyle": "italic"
       }
     },
@@ -2273,7 +2273,7 @@
         "punctuation.definition.evaluation.backticks.shell"
       ],
       "settings": {
-        "foreground": "#94e2d5"
+        "foreground": "#8CE6D5"
       }
     },
     {

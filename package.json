@@ -1,10 +1,10 @@
 {
-	"name": "my-theme-vsc",
+	"name": "pink-velvet-theme",
 	"license": "MIT",
-	"displayName": "MY THEME NAME",
-	"publisher": "TO BE DECIDED WHEN VS CODE MARKETPLACE PUBLISHING",
+	"displayName": "Pink Velvet Theme for VS Code",
+	"publisher": "Lisa Fälth",
 	"description": "My custom theme for Visual Studio Code!",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
@@ -24,7 +24,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "MY THEME NAME",
+				"label": "Pink Velvet Theme for VS Code",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark-theme.json"
 			}
@@ -34,6 +34,13 @@
 		"type": "git",
 		"url": "https://github.com/De1ora/my-vscode-theme"
 	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"pink theme",
+		"colorful theme",
+		"VS Code theme"
+	],
 	"icon": "icon.png",
 	"homepage": "https://github.com/De1ora/my-vscode-theme#readme"
 }
