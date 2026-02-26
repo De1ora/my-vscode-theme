@@ -4,7 +4,7 @@
 	"displayName": "Pink Velvet Theme for VS Code",
 	"publisher": "Lisa Fälth",
 	"description": "My custom theme for Visual Studio Code!",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
