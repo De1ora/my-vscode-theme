@@ -2,7 +2,7 @@
 	"name": "pink-velvet-theme",
 	"license": "MIT",
 	"displayName": "Pink Velvet Theme for VS Code",
-	"publisher": "Lisa Fälth",
+	"publisher": "lisafalth",
 	"description": "My custom theme for Visual Studio Code!",
 	"version": "1.0.0",
 	"engines": {
@@ -41,6 +41,6 @@
 		"colorful theme",
 		"VS Code theme"
 	],
-	"icon": "icon.png",
+	"icon": "assets/icon.png",
 	"homepage": "https://github.com/De1ora/my-vscode-theme#readme"
 }
